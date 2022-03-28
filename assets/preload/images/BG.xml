@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Title screen0000" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0001" x="1281" y="0" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0002" x="2562" y="0" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0003" x="3888" y="0" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0004" x="5259" y="0" width="1373" height="794"/>
+	<SubTexture name="Title screen0005" x="6632" y="0" width="1371" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0006" x="0" y="794" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0007" x="1357" y="794" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0008" x="2652" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0009" x="3933" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0010" x="5214" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0011" x="6495" y="794" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0012" x="0" y="1578" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0013" x="1326" y="1578" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0014" x="5259" y="0" width="1373" height="794"/>
+	<SubTexture name="Title screen0015" x="2697" y="1578" width="1371" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0016" x="4068" y="1578" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0017" x="5425" y="1578" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0018" x="6720" y="1578" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0019" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0020" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0021" x="0" y="2371" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0022" x="1281" y="2371" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0023" x="2576" y="2371" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0024" x="3933" y="2371" width="1372" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0025" x="5305" y="2371" width="1373" height="794"/>
+	<SubTexture name="Title screen0026" x="1326" y="1578" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0027" x="6678" y="2371" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0028" x="0" y="3165" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0029" x="1281" y="3165" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0030" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0031" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+</TextureAtlas>

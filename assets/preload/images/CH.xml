@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CH.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ch0000" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0001" x="1280" y="0" width="1293" height="743" frameX="-6" frameY="-12" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0002" x="2573" y="0" width="1305" height="751" frameX="-5" frameY="-9" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0003" x="0" y="751" width="1319" height="761" frameX="-3" frameY="-6" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0004" x="1319" y="751" width="1331" height="771" frameX="-2" frameY="-3" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0005" x="2650" y="751" width="1344" height="782" frameX="0" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0006" x="0" y="1533" width="1344" height="782" frameX="-1" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0007" x="1344" y="1533" width="1328" height="769" frameX="-2" frameY="-3" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0008" x="2672" y="1533" width="1312" height="756" frameX="-4" frameY="-7" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0009" x="0" y="2315" width="1296" height="744" frameX="-6" frameY="-11" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0010" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0011" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0012" x="1296" y="2315" width="1296" height="743" frameX="-6" frameY="-12" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0013" x="2592" y="2315" width="1312" height="756" frameX="-4" frameY="-8" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0014" x="0" y="3071" width="1328" height="769" frameX="-2" frameY="-4" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0015" x="2650" y="751" width="1344" height="782" frameX="-1" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0016" x="0" y="1533" width="1344" height="782" frameX="-1" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0017" x="1344" y="1533" width="1328" height="769" frameX="-2" frameY="-3" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0018" x="2672" y="1533" width="1312" height="756" frameX="-4" frameY="-7" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0019" x="0" y="2315" width="1296" height="744" frameX="-6" frameY="-11" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0020" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0021" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0022" x="1296" y="2315" width="1296" height="743" frameX="-6" frameY="-12" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0023" x="2592" y="2315" width="1312" height="756" frameX="-4" frameY="-8" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0024" x="0" y="3071" width="1328" height="769" frameX="-2" frameY="-4" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0025" x="2650" y="751" width="1344" height="782" frameX="-1" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0026" x="0" y="1533" width="1344" height="782" frameX="-1" frameY="0" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0027" x="1319" y="751" width="1331" height="771" frameX="-2" frameY="-3" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0028" x="0" y="751" width="1319" height="761" frameX="-3" frameY="-6" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0029" x="1328" y="3071" width="1305" height="751" frameX="-5" frameY="-9" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0030" x="2633" y="3071" width="1293" height="743" frameX="-6" frameY="-12" frameWidth="1345" frameHeight="782"/>
+	<SubTexture name="ch0031" x="0" y="0" width="1280" height="738" frameX="-7" frameY="-15" frameWidth="1345" frameHeight="782"/>
+</TextureAtlas>
