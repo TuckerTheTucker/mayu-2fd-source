@@ -164,7 +164,7 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 		
-		menuBG = new FlxSprite(-92, -44);
+		menuBG = new FlxSprite(-2, -12);
 		menuBG.frames = Paths.getSparrowAtlas('BG');
 		menuBG.animation.addByPrefix('idle', "Title screen", 24);
 		menuBG.antialiasing = true;
@@ -176,7 +176,7 @@ class TitleState extends MusicBeatState
 		logoBl = new FlxSprite(-80, -64);
 		logoBl.frames = Paths.getSparrowAtlas('logo');
 		logoBl.antialiasing = true;
-		logoBl.animation.addByPrefix('bump', 'logo', 24);
+		logoBl.animation.addByPrefix('bump', 'logo', 24, false);
 		logoBl.updateHitbox();
 			// logoBl.screenCenter();
 			// logoBl.color = FlxColor.BLACK;
@@ -271,16 +271,16 @@ class TitleState extends MusicBeatState
 			mm = 1;
 
 		if (FlxG.keys.justPressed.G)
-			trace("X: " + logoBl.x + ", Y: " + logoBl.y);
+			trace("X: " + menuBG.x + ", Y: " + menuBG.y);
 			
 		if (FlxG.keys.justPressed.D)
-			logoBl.x += 1 * mm;
+			menuBG.x += 1 * mm;
 		if (FlxG.keys.justPressed.A)
-			logoBl.x -= 1 * mm;
+			menuBG.x -= 1 * mm;
 		if (FlxG.keys.justPressed.W)
-			logoBl.y -= 1 * mm;
+			menuBG.y -= 1 * mm;
 		if (FlxG.keys.justPressed.S)
-			logoBl.y += 1 * mm;
+			menuBG.y += 1 * mm;
 		#end
 		
 		if (FlxG.sound.music != null)

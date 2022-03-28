@@ -2,36 +2,87 @@
 <TextureAtlas imagePath="BG.png">
 	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Title screen0000" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0001" x="1281" y="0" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0002" x="2562" y="0" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0003" x="3888" y="0" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0004" x="5259" y="0" width="1373" height="794"/>
-	<SubTexture name="Title screen0005" x="6632" y="0" width="1371" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0006" x="0" y="794" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0007" x="1357" y="794" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0008" x="2652" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0009" x="3933" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0010" x="5214" y="794" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0011" x="6495" y="794" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0012" x="0" y="1578" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0013" x="1326" y="1578" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0014" x="5259" y="0" width="1373" height="794"/>
-	<SubTexture name="Title screen0015" x="2697" y="1578" width="1371" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0016" x="4068" y="1578" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0017" x="5425" y="1578" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0018" x="6720" y="1578" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0019" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0020" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0021" x="0" y="2371" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0022" x="1281" y="2371" width="1295" height="740" frameX="-78" frameY="-29" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0023" x="2576" y="2371" width="1357" height="784" frameX="-16" frameY="-5" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0024" x="3933" y="2371" width="1372" height="793" frameX="-1" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0025" x="5305" y="2371" width="1373" height="794"/>
-	<SubTexture name="Title screen0026" x="1326" y="1578" width="1371" height="793" frameX="-2" frameY="0" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0027" x="6678" y="2371" width="1326" height="762" frameX="-47" frameY="-17" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0028" x="0" y="3165" width="1281" height="732" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0029" x="1281" y="3165" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0030" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
-	<SubTexture name="Title screen0031" x="0" y="0" width="1281" height="731" frameX="-92" frameY="-33" frameWidth="1373" frameHeight="794"/>
+	<SubTexture name="Title screen0000" x="0" y="0" width="1283" height="730"/>
+	<SubTexture name="Title screen0001" x="1283" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0002" x="2564" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0003" x="3845" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0004" x="5126" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0005" x="6407" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0006" x="0" y="730" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0007" x="1281" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0008" x="2561" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0009" x="3841" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0010" x="5121" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0011" x="6401" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0012" x="0" y="1460" width="1283" height="730"/>
+	<SubTexture name="Title screen0013" x="1283" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0014" x="2564" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0015" x="3845" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0016" x="5126" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0017" x="6407" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0018" x="0" y="2190" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0019" x="1281" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0020" x="2561" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0021" x="3841" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0022" x="5121" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0023" x="6401" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0024" x="0" y="2920" width="1283" height="730"/>
+	<SubTexture name="Title screen0025" x="1283" y="2920" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0026" x="2564" y="2920" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0027" x="3845" y="2920" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0028" x="5126" y="2920" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0029" x="6407" y="2920" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0030" x="0" y="3650" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0031" x="1281" y="3650" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0032" x="2561" y="3650" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0033" x="3841" y="3650" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0034" x="5121" y="3650" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0035" x="6401" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0036" x="0" y="1460" width="1283" height="730"/>
+	<SubTexture name="Title screen0037" x="1283" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0038" x="2564" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0039" x="6401" y="3650" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0040" x="0" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0041" x="1281" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0042" x="2562" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0043" x="3843" y="4380" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0044" x="2561" y="730" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0045" x="5123" y="4380" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0046" x="6403" y="4380" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0047" x="0" y="5110" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0048" x="1280" y="5110" width="1283" height="730"/>
+	<SubTexture name="Title screen0049" x="1283" y="0" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0050" x="2563" y="5110" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0051" x="3844" y="5110" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0052" x="5125" y="5110" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0053" x="6406" y="5110" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0054" x="0" y="5840" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0055" x="1281" y="5840" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0056" x="2561" y="5840" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0057" x="3841" y="5840" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0058" x="5121" y="5840" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0059" x="6401" y="5840" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0060" x="0" y="1460" width="1283" height="730"/>
+	<SubTexture name="Title screen0061" x="1283" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0062" x="0" y="6570" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0063" x="6401" y="3650" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0064" x="0" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0065" x="1281" y="6570" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0066" x="2562" y="6570" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0067" x="3843" y="6570" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0068" x="5123" y="6570" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0069" x="6403" y="6570" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0070" x="0" y="7300" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0071" x="1280" y="7300" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0072" x="2560" y="7300" width="1283" height="730"/>
+	<SubTexture name="Title screen0073" x="1283" y="1460" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0074" x="0" y="6570" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0075" x="3843" y="7300" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0076" x="0" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0077" x="1281" y="4380" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0078" x="2562" y="6570" width="1281" height="730" frameX="-1" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0079" x="5124" y="7300" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0080" x="6404" y="7300" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0082" x="5121" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
+	<SubTexture name="Title screen0083" x="6401" y="2190" width="1280" height="730" frameX="-2" frameY="0" frameWidth="1283" frameHeight="730"/>
 </TextureAtlas>

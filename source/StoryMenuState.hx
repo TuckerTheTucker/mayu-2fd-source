@@ -31,7 +31,7 @@ class StoryMenuState extends MusicBeatState
 	public static var weekUnlocked:Array<Bool> = [true];
 
 	var weekCharacters:Array<Dynamic> = [
-		['', 'bf', 'gf'],
+		['ren', 'bf', 'gf'],
 	];
 
 	var weekNames:Array<String> = [
@@ -127,7 +127,7 @@ class StoryMenuState extends MusicBeatState
 
 		trace("Line 96");
 
-		grpWeekCharacters.add(new MenuCharacter(0, 100, 0.5, false));
+		grpWeekCharacters.add(new MenuCharacter(0, 230, 0.5, false));
 		grpWeekCharacters.add(new MenuCharacter(450, 25, 0.9, true));
 		grpWeekCharacters.add(new MenuCharacter(850, 100, 0.5, true));
 
@@ -181,8 +181,29 @@ class StoryMenuState extends MusicBeatState
 		super.create();
 	}
 
+	var mm:Int = 1;
+	
 	override function update(elapsed:Float)
 	{
+		#if debug
+		//basic position editing shit
+		if (FlxG.keys.pressed.SHIFT)
+			mm = 10;
+		else
+			mm = 1;
+
+		if (FlxG.keys.justPressed.G)
+			trace("X: " + grpWeekCharacters.members[0].x + ", Y: " + grpWeekCharacters.members[0].y);
+			
+		if (FlxG.keys.justPressed.D)
+			grpWeekCharacters.members[0].x += 1 * mm;
+		if (FlxG.keys.justPressed.A)
+			grpWeekCharacters.members[0].x -= 1 * mm;
+		if (FlxG.keys.justPressed.W)
+			grpWeekCharacters.members[0].y -= 1 * mm;
+		if (FlxG.keys.justPressed.S)
+			grpWeekCharacters.members[0].y += 1 * mm;
+		#end
 		// scoreText.setFormat('VCR OSD Mono', 32);
 		lerpScore = Math.floor(FlxMath.lerp(lerpScore, intendedScore, 0.5));
 
